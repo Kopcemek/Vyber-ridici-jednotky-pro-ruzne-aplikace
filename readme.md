@@ -48,7 +48,7 @@ Doplňte do níže uvedené tabulky význam zkratek, základní princip a typick
 | **Embedded**             |           vestavěný                            |                                                                                                      | Embedded PLC, Embedded PC                   | Bílá technika, bankomaty, regulace kotlů |
 | **PLC**                  |           programed logical component                            | Průmyslový automat pro cyklické deterministické řízení procesů, vysoká odolnost, modulární/kompaktní |                                             |                                          |
 | **iPC**                  |           inter procces communiication                            |                                                                                                      |                                             |                                          |
-| **Programovatelné relé** |                                       | Zjednodušené kompaktní PLC pro méně náročné úlohy, nahrazuje časovací relé a stykačové kombinace     |                                             |                                          |
+| **Programovatelné relé** |          menší PLC                             | Zjednodušené kompaktní PLC pro méně náročné úlohy, nahrazuje časovací relé a stykačové kombinace     |                                             |                                          |
 
 > :key: **Vysvětlení pojmů a odborné zdroje:**
 > - **SoC (System on Chip):** Integrovaný obvod sdružující všechny klíčové elektronické obvody a komponenty celého počítače či elektronického systému na jediném křemíkovém čipu. 
