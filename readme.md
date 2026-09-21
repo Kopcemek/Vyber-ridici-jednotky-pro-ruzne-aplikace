@@ -101,7 +101,7 @@ Proč se u kritických aplikací v letectví (např. systém řízení letu Fly-
      - Druhá číslice (8): `odolnost vůči vodě`
    - Jaké minimální krytí IP musí mít rozváděč umístěný ve venkovním nekrytém prostředí, kde na něj přímo dopadá déšť a fouká polétavý prach?
      - Označte správnou volbu: `[ ] IP20` | `[ ] IP44` | `[X] IP65` | `[ ] IP00`
-     - Zdůvodnění: `Číslo 6 je odolnost vůči prachu a číslo 5 je značí způsobilost pro otevřené venkovní prostředí`
+     - Zdůvodnění: `Číslo 6 je odolnost vůči prachu a číslo 5 značí způsobilost pro otevřené venkovní prostředí`
 
 4. **Konstrukční rozdíly kancelářského PC vs. průmyslového iPC:**
    - Vyberte a doplňte hlavní odlišnosti:
