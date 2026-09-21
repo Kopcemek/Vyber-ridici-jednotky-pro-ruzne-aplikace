@@ -68,7 +68,7 @@ Doplňte do níže uvedené tabulky význam zkratek, základní princip a typick
 Proč se u kritických aplikací v letectví (např. systém řízení letu Fly-by-Wire) nebo v jaderné energetice stále upřednostňují jednoduché deterministické mikrořadiče s několika desítkami kilobajtů paměti nebo obvody FPGA před moderními vícejádrovými gigahertzovými procesory s gigabajty RAM?
 
 *Vaše odpověď:*
-`...`
+`Mikrořadiče se používají hlavně kvůli větší fyzické odolnosti a předvídavosti v operování s nimi, je jednodušší se v nich orientovat v takových situacích které se mohou v daných příkladech vyskytnout`
 
 ---
 
